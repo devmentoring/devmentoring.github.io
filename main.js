@@ -466,7 +466,7 @@ var AppModule = /** @class */ (function () {
                 _angular_router__WEBPACK_IMPORTED_MODULE_4__["RouterModule"],
                 _app_routing__WEBPACK_IMPORTED_MODULE_5__["AppRoutingModule"],
                 _agm_core__WEBPACK_IMPORTED_MODULE_8__["AgmCoreModule"].forRoot({
-                    apiKey: 'YOUR_GOOGLE_MAPS_API_KEY'
+                    apiKey: 'AIzaSyBEv95QqWzR0ofY8756qokFlVdSlKqErr4'
                 })
             ],
             declarations: [
